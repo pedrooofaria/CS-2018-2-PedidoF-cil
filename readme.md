@@ -1,5 +1,5 @@
-# Grupo 2 - Construção de Software
-## Sistema de Administração de Pedidos 
+﻿#  Grupo 2 - Construção de Software
+## Sistema de Auxílio Educacional 
 Repositorio para a disciplina de Construção de Software do curso de Sistemas de Informação da Universidade Federal de Goiás - Semestre 2018-2.
 ### Integrantes
 * [Pedro Faria](https://github.com/pedrooofaria) 
